@@ -1,27 +1,46 @@
-# AffectiveArchiveFragments
-DfPI 2026; Python+DataViz data collection
-# Projecting Between Domains – Python / Webscraping Project
+# Projecting Between Domains – Submission Repository
 
-This repository contains the Python notebooks, scripts, datasets, and outputs for my computational design project.
+This GitHub repository contains the source code, Jupyter notebook, scraped dataset, and outputs for **Homework Week 1**.
 
-## Contents
+The remaining project materials, including **Homework Week 2**, **Final Project files**, design tool files, animation outputs, and additional assets are stored in the public OneDrive submission folder.
 
-- `notebooks/` – Jupyter notebook showing the webscraping, data cleaning, and visualisation process.
-- `scripts/` – Python scripts used in the project.
-- `data/raw/` – raw dataset collected through webscraping.
-- `data/processed/` – cleaned dataset used for visualisation.
-- `outputs/` – exported charts, figures, and animation outputs.
-- `requirements.txt` – Python libraries used.
+## Repository Contents
 
-## Data Source
+- `HW_Week_1/notebook/`  
+  Contains the Jupyter Notebook used for the Python/webscraping process.
 
-The dataset was collected through webscraping from:
+- `HW_Week_1/data/`  
+  Contains the dataset collected through webscraping.
+
+- `HW_Week_1/outputs/`  
+  Contains exported visualisation outputs from the notebook.
+
+- `requirements.txt`  
+  Lists the Python libraries used in the notebook.
+
+## External OneDrive Folder
+
+The full submission materials can be accessed here:
+https://liveuclac-my.sharepoint.com/:f:/g/personal/ucbvnn2_ucl_ac_uk/IgDnPhJaSkKpRpMXW635EPXZAZw4fCAhZ6hUYai1ipLmpgM?e=WK9CWq
+
+The OneDrive folder includes:
+
+- Homework Week 2
+- Final Project files
+- Design tool files
+- Animation outputs
+- Additional datasets and assets
+- Processing file
+
+## Dataset Source
+
+The dataset for Homework Week 1 was collected through webscraping from:
 
 - Website name: The Reviews Hub and Exeunt Magazine
 - URL: https://www.thereviewshub.com/ | https://exeuntmagazine.com/
 - Date accessed/scraped: 02 May 2026
 
-The scraped data was used for educational purposes as part of the course submission.
+The data was used for educational purposes as part of the course submission.
 
 ## Tools and Libraries
 
@@ -33,9 +52,16 @@ This project used:
 - requests
 - BeautifulSoup
 - matplotlib
+- numpy
 
 ## Credits and Attribution
 
-External data, websites, libraries, and AI tools used in the development of this project are credited here.
+External websites, datasets, Python libraries, and digital tools used in this project are credited here.
 
-AI assistance: ChatGPT was used to support code explanation and debugging.
+AI assistance: ChatGPT was used to support coding explanation, debugging, and writing structure.
+
+## Author
+
+Nathania Serephine  
+MArch Design for Performance and Interaction  
+The Bartlett School of Architecture, UCL
