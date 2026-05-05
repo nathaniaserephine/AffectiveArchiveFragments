@@ -21,7 +21,7 @@ The remaining project materials, including **Homework Week 2**, **Final Project 
 ## External OneDrive Folder
 
 The full submission materials can be accessed here:
-https://liveuclac-my.sharepoint.com/:f:/g/personal/ucbvnn2_ucl_ac_uk/IgDnPhJaSkKpRpMXW635EPXZAZw4fCAhZ6hUYai1ipLmpgM?e=WK9CWq
+https://liveuclac-my.sharepoint.com/:f:/g/personal/ucbvnn2_ucl_ac_uk/IgDnPhJaSkKpRpMXW635EPXZAZw4fCAhZ6hUYai1ipLmpgM?e=7s1BJ4
 
 The OneDrive folder includes:
 
